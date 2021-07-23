@@ -1,0 +1,1172 @@
+data/data_vigilia/0/1_vigilia con 1.edf 0
+Extracting EDF parameters from C:\Users\Pedro Chazarra\Saved Games\CEIEC_CNN\data\data_vigilia\0\1_vigilia con 1.edf...
+EDF file detected
+Setting channel info structure...
+Creating raw.info structure...
+
+[1mEEG Information.
+[0mNumber of Channels: 25
+Sample rate: 512.0 Hz.
+Duration: 4.998 seconds.
+Channel Names: ['EEG Fp1', 'EEG Fp2', 'EEG F3', 'EEG F4', 'EEG C3', 'EEG C4', 'EEG P3', 'EEG P4', 'EEG O1', 'EEG O2', 'EEG F7', 'EEG F8', 'EEG T3', 'EEG T4', 'EEG T5', 'EEG T6', 'EEG Fz', 'EEG Cz', 'EEG Pz', 'EEG FT9', 'EEG FT10', 'EEG T9', 'EEG T10', 'EEG TP9', 'EEG TP10']
+
+=========================================
+[1mModel Data.[0m
+Squared_coherence_Estimator()
+Frequency Bands: ['delta', 'theta', 'alpha', 'beta', 'gamma'] [False, True, True, True, False]
+Intervals:  [(0, 512.0), (512.0, 1024.0), (1024.0, 1536.0), (1536.0, 2048.0), (2048.0, 2559.0)]
+
+Threshold: 0.55
+Number of graphs created: 15
+Empty: [0] 
+
+data/data_vigilia/0/1_vigilia con 10.edf 0
+Extracting EDF parameters from C:\Users\Pedro Chazarra\Saved Games\CEIEC_CNN\data\data_vigilia\0\1_vigilia con 10.edf...
+EDF file detected
+Setting channel info structure...
+Creating raw.info structure...
+
+[1mEEG Information.
+[0mNumber of Channels: 25
+Sample rate: 512.0 Hz.
+Duration: 3.998 seconds.
+Channel Names: ['EEG Fp1', 'EEG Fp2', 'EEG F3', 'EEG F4', 'EEG C3', 'EEG C4', 'EEG P3', 'EEG P4', 'EEG O1', 'EEG O2', 'EEG F7', 'EEG F8', 'EEG T3', 'EEG T4', 'EEG T5', 'EEG T6', 'EEG Fz', 'EEG Cz', 'EEG Pz', 'EEG FT9', 'EEG FT10', 'EEG T9', 'EEG T10', 'EEG TP9', 'EEG TP10']
+
+=========================================
+[1mModel Data.[0m
+Squared_coherence_Estimator()
+Frequency Bands: ['delta', 'theta', 'alpha', 'beta', 'gamma'] [False, True, True, True, False]
+Intervals:  [(0, 512.0), (512.0, 1024.0), (1024.0, 1536.0), (1536.0, 2047.0)]
+
+Threshold: 0.55
+Number of graphs created: 12
+Empty: [0] 
+
+data/data_vigilia/0/1_vigilia con 11.edf 0
+Extracting EDF parameters from C:\Users\Pedro Chazarra\Saved Games\CEIEC_CNN\data\data_vigilia\0\1_vigilia con 11.edf...
+EDF file detected
+Setting channel info structure...
+Creating raw.info structure...
+
+[1mEEG Information.
+[0mNumber of Channels: 25
+Sample rate: 512.0 Hz.
+Duration: 4.998 seconds.
+Channel Names: ['EEG Fp1', 'EEG Fp2', 'EEG F3', 'EEG F4', 'EEG C3', 'EEG C4', 'EEG P3', 'EEG P4', 'EEG O1', 'EEG O2', 'EEG F7', 'EEG F8', 'EEG T3', 'EEG T4', 'EEG T5', 'EEG T6', 'EEG Fz', 'EEG Cz', 'EEG Pz', 'EEG FT9', 'EEG FT10', 'EEG T9', 'EEG T10', 'EEG TP9', 'EEG TP10']
+
+=========================================
+[1mModel Data.[0m
+Squared_coherence_Estimator()
+Frequency Bands: ['delta', 'theta', 'alpha', 'beta', 'gamma'] [False, True, True, True, False]
+Intervals:  [(0, 512.0), (512.0, 1024.0), (1024.0, 1536.0), (1536.0, 2048.0), (2048.0, 2559.0)]
+
+Threshold: 0.55
+Number of graphs created: 15
+Empty: [0] 
+
+data/data_vigilia/0/1_vigilia con 12.edf 0
+Extracting EDF parameters from C:\Users\Pedro Chazarra\Saved Games\CEIEC_CNN\data\data_vigilia\0\1_vigilia con 12.edf...
+EDF file detected
+Setting channel info structure...
+Creating raw.info structure...
+
+[1mEEG Information.
+[0mNumber of Channels: 25
+Sample rate: 512.0 Hz.
+Duration: 4.998 seconds.
+Channel Names: ['EEG Fp1', 'EEG Fp2', 'EEG F3', 'EEG F4', 'EEG C3', 'EEG C4', 'EEG P3', 'EEG P4', 'EEG O1', 'EEG O2', 'EEG F7', 'EEG F8', 'EEG T3', 'EEG T4', 'EEG T5', 'EEG T6', 'EEG Fz', 'EEG Cz', 'EEG Pz', 'EEG FT9', 'EEG FT10', 'EEG T9', 'EEG T10', 'EEG TP9', 'EEG TP10']
+
+=========================================
+[1mModel Data.[0m
+Squared_coherence_Estimator()
+Frequency Bands: ['delta', 'theta', 'alpha', 'beta', 'gamma'] [False, True, True, True, False]
+Intervals:  [(0, 512.0), (512.0, 1024.0), (1024.0, 1536.0), (1536.0, 2048.0), (2048.0, 2559.0)]
+
+Threshold: 0.55
+Number of graphs created: 15
+Empty: [0] 
+
+data/data_vigilia/0/1_vigilia con 13.edf 0
+Extracting EDF parameters from C:\Users\Pedro Chazarra\Saved Games\CEIEC_CNN\data\data_vigilia\0\1_vigilia con 13.edf...
+EDF file detected
+Setting channel info structure...
+Creating raw.info structure...
+
+[1mEEG Information.
+[0mNumber of Channels: 25
+Sample rate: 512.0 Hz.
+Duration: 3.998 seconds.
+Channel Names: ['EEG Fp1', 'EEG Fp2', 'EEG F3', 'EEG F4', 'EEG C3', 'EEG C4', 'EEG P3', 'EEG P4', 'EEG O1', 'EEG O2', 'EEG F7', 'EEG F8', 'EEG T3', 'EEG T4', 'EEG T5', 'EEG T6', 'EEG Fz', 'EEG Cz', 'EEG Pz', 'EEG FT9', 'EEG FT10', 'EEG T9', 'EEG T10', 'EEG TP9', 'EEG TP10']
+
+=========================================
+[1mModel Data.[0m
+Squared_coherence_Estimator()
+Frequency Bands: ['delta', 'theta', 'alpha', 'beta', 'gamma'] [False, True, True, True, False]
+Intervals:  [(0, 512.0), (512.0, 1024.0), (1024.0, 1536.0), (1536.0, 2047.0)]
+
+Threshold: 0.55
+Number of graphs created: 12
+Empty: [0] 
+
+data/data_vigilia/0/1_vigilia con 14.edf 0
+Extracting EDF parameters from C:\Users\Pedro Chazarra\Saved Games\CEIEC_CNN\data\data_vigilia\0\1_vigilia con 14.edf...
+EDF file detected
+Setting channel info structure...
+Creating raw.info structure...
+
+[1mEEG Information.
+[0mNumber of Channels: 25
+Sample rate: 512.0 Hz.
+Duration: 4.998 seconds.
+Channel Names: ['EEG Fp1', 'EEG Fp2', 'EEG F3', 'EEG F4', 'EEG C3', 'EEG C4', 'EEG P3', 'EEG P4', 'EEG O1', 'EEG O2', 'EEG F7', 'EEG F8', 'EEG T3', 'EEG T4', 'EEG T5', 'EEG T6', 'EEG Fz', 'EEG Cz', 'EEG Pz', 'EEG FT9', 'EEG FT10', 'EEG T9', 'EEG T10', 'EEG TP9', 'EEG TP10']
+
+=========================================
+[1mModel Data.[0m
+Squared_coherence_Estimator()
+Frequency Bands: ['delta', 'theta', 'alpha', 'beta', 'gamma'] [False, True, True, True, False]
+Intervals:  [(0, 512.0), (512.0, 1024.0), (1024.0, 1536.0), (1536.0, 2048.0), (2048.0, 2559.0)]
+
+Threshold: 0.55
+Number of graphs created: 15
+Empty: [0] 
+
+data/data_vigilia/0/1_vigilia con 15.edf 0
+Extracting EDF parameters from C:\Users\Pedro Chazarra\Saved Games\CEIEC_CNN\data\data_vigilia\0\1_vigilia con 15.edf...
+EDF file detected
+Setting channel info structure...
+Creating raw.info structure...
+
+[1mEEG Information.
+[0mNumber of Channels: 25
+Sample rate: 512.0 Hz.
+Duration: 4.998 seconds.
+Channel Names: ['EEG Fp1', 'EEG Fp2', 'EEG F3', 'EEG F4', 'EEG C3', 'EEG C4', 'EEG P3', 'EEG P4', 'EEG O1', 'EEG O2', 'EEG F7', 'EEG F8', 'EEG T3', 'EEG T4', 'EEG T5', 'EEG T6', 'EEG Fz', 'EEG Cz', 'EEG Pz', 'EEG FT9', 'EEG FT10', 'EEG T9', 'EEG T10', 'EEG TP9', 'EEG TP10']
+
+=========================================
+[1mModel Data.[0m
+Squared_coherence_Estimator()
+Frequency Bands: ['delta', 'theta', 'alpha', 'beta', 'gamma'] [False, True, True, True, False]
+Intervals:  [(0, 512.0), (512.0, 1024.0), (1024.0, 1536.0), (1536.0, 2048.0), (2048.0, 2559.0)]
+
+Threshold: 0.55
+Number of graphs created: 15
+Empty: [0] 
+
+data/data_vigilia/0/1_vigilia con 16.edf 0
+Extracting EDF parameters from C:\Users\Pedro Chazarra\Saved Games\CEIEC_CNN\data\data_vigilia\0\1_vigilia con 16.edf...
+EDF file detected
+Setting channel info structure...
+Creating raw.info structure...
+
+[1mEEG Information.
+[0mNumber of Channels: 25
+Sample rate: 512.0 Hz.
+Duration: 3.998 seconds.
+Channel Names: ['EEG Fp1', 'EEG Fp2', 'EEG F3', 'EEG F4', 'EEG C3', 'EEG C4', 'EEG P3', 'EEG P4', 'EEG O1', 'EEG O2', 'EEG F7', 'EEG F8', 'EEG T3', 'EEG T4', 'EEG T5', 'EEG T6', 'EEG Fz', 'EEG Cz', 'EEG Pz', 'EEG FT9', 'EEG FT10', 'EEG T9', 'EEG T10', 'EEG TP9', 'EEG TP10']
+
+=========================================
+[1mModel Data.[0m
+Squared_coherence_Estimator()
+Frequency Bands: ['delta', 'theta', 'alpha', 'beta', 'gamma'] [False, True, True, True, False]
+Intervals:  [(0, 512.0), (512.0, 1024.0), (1024.0, 1536.0), (1536.0, 2047.0)]
+
+Threshold: 0.55
+Number of graphs created: 12
+Empty: [0] 
+
+data/data_vigilia/0/1_vigilia con 2.edf 0
+Extracting EDF parameters from C:\Users\Pedro Chazarra\Saved Games\CEIEC_CNN\data\data_vigilia\0\1_vigilia con 2.edf...
+EDF file detected
+Setting channel info structure...
+Creating raw.info structure...
+
+[1mEEG Information.
+[0mNumber of Channels: 25
+Sample rate: 512.0 Hz.
+Duration: 3.998 seconds.
+Channel Names: ['EEG Fp1', 'EEG Fp2', 'EEG F3', 'EEG F4', 'EEG C3', 'EEG C4', 'EEG P3', 'EEG P4', 'EEG O1', 'EEG O2', 'EEG F7', 'EEG F8', 'EEG T3', 'EEG T4', 'EEG T5', 'EEG T6', 'EEG Fz', 'EEG Cz', 'EEG Pz', 'EEG FT9', 'EEG FT10', 'EEG T9', 'EEG T10', 'EEG TP9', 'EEG TP10']
+
+=========================================
+[1mModel Data.[0m
+Squared_coherence_Estimator()
+Frequency Bands: ['delta', 'theta', 'alpha', 'beta', 'gamma'] [False, True, True, True, False]
+Intervals:  [(0, 512.0), (512.0, 1024.0), (1024.0, 1536.0), (1536.0, 2047.0)]
+
+Threshold: 0.55
+Number of graphs created: 12
+Empty: [0] 
+
+data/data_vigilia/0/1_vigilia con 3.edf 0
+Extracting EDF parameters from C:\Users\Pedro Chazarra\Saved Games\CEIEC_CNN\data\data_vigilia\0\1_vigilia con 3.edf...
+EDF file detected
+Setting channel info structure...
+Creating raw.info structure...
+
+[1mEEG Information.
+[0mNumber of Channels: 25
+Sample rate: 512.0 Hz.
+Duration: 3.998 seconds.
+Channel Names: ['EEG Fp1', 'EEG Fp2', 'EEG F3', 'EEG F4', 'EEG C3', 'EEG C4', 'EEG P3', 'EEG P4', 'EEG O1', 'EEG O2', 'EEG F7', 'EEG F8', 'EEG T3', 'EEG T4', 'EEG T5', 'EEG T6', 'EEG Fz', 'EEG Cz', 'EEG Pz', 'EEG FT9', 'EEG FT10', 'EEG T9', 'EEG T10', 'EEG TP9', 'EEG TP10']
+
+=========================================
+[1mModel Data.[0m
+Squared_coherence_Estimator()
+Frequency Bands: ['delta', 'theta', 'alpha', 'beta', 'gamma'] [False, True, True, True, False]
+Intervals:  [(0, 512.0), (512.0, 1024.0), (1024.0, 1536.0), (1536.0, 2047.0)]
+
+Threshold: 0.55
+Number of graphs created: 12
+Empty: [0] 
+
+data/data_vigilia/0/1_vigilia con 4.edf 0
+Extracting EDF parameters from C:\Users\Pedro Chazarra\Saved Games\CEIEC_CNN\data\data_vigilia\0\1_vigilia con 4.edf...
+EDF file detected
+Setting channel info structure...
+Creating raw.info structure...
+
+[1mEEG Information.
+[0mNumber of Channels: 25
+Sample rate: 512.0 Hz.
+Duration: 4.998 seconds.
+Channel Names: ['EEG Fp1', 'EEG Fp2', 'EEG F3', 'EEG F4', 'EEG C3', 'EEG C4', 'EEG P3', 'EEG P4', 'EEG O1', 'EEG O2', 'EEG F7', 'EEG F8', 'EEG T3', 'EEG T4', 'EEG T5', 'EEG T6', 'EEG Fz', 'EEG Cz', 'EEG Pz', 'EEG FT9', 'EEG FT10', 'EEG T9', 'EEG T10', 'EEG TP9', 'EEG TP10']
+
+=========================================
+[1mModel Data.[0m
+Squared_coherence_Estimator()
+Frequency Bands: ['delta', 'theta', 'alpha', 'beta', 'gamma'] [False, True, True, True, False]
+Intervals:  [(0, 512.0), (512.0, 1024.0), (1024.0, 1536.0), (1536.0, 2048.0), (2048.0, 2559.0)]
+
+Threshold: 0.55
+Number of graphs created: 15
+Empty: [0] 
+
+data/data_vigilia/0/1_vigilia con 5.edf 0
+Extracting EDF parameters from C:\Users\Pedro Chazarra\Saved Games\CEIEC_CNN\data\data_vigilia\0\1_vigilia con 5.edf...
+EDF file detected
+Setting channel info structure...
+Creating raw.info structure...
+
+[1mEEG Information.
+[0mNumber of Channels: 25
+Sample rate: 512.0 Hz.
+Duration: 3.998 seconds.
+Channel Names: ['EEG Fp1', 'EEG Fp2', 'EEG F3', 'EEG F4', 'EEG C3', 'EEG C4', 'EEG P3', 'EEG P4', 'EEG O1', 'EEG O2', 'EEG F7', 'EEG F8', 'EEG T3', 'EEG T4', 'EEG T5', 'EEG T6', 'EEG Fz', 'EEG Cz', 'EEG Pz', 'EEG FT9', 'EEG FT10', 'EEG T9', 'EEG T10', 'EEG TP9', 'EEG TP10']
+
+=========================================
+[1mModel Data.[0m
+Squared_coherence_Estimator()
+Frequency Bands: ['delta', 'theta', 'alpha', 'beta', 'gamma'] [False, True, True, True, False]
+Intervals:  [(0, 512.0), (512.0, 1024.0), (1024.0, 1536.0), (1536.0, 2047.0)]
+
+Threshold: 0.55
+Number of graphs created: 12
+Empty: [0] 
+
+data/data_vigilia/0/1_vigilia con 6.edf 0
+Extracting EDF parameters from C:\Users\Pedro Chazarra\Saved Games\CEIEC_CNN\data\data_vigilia\0\1_vigilia con 6.edf...
+EDF file detected
+Setting channel info structure...
+Creating raw.info structure...
+
+[1mEEG Information.
+[0mNumber of Channels: 25
+Sample rate: 512.0 Hz.
+Duration: 3.998 seconds.
+Channel Names: ['EEG Fp1', 'EEG Fp2', 'EEG F3', 'EEG F4', 'EEG C3', 'EEG C4', 'EEG P3', 'EEG P4', 'EEG O1', 'EEG O2', 'EEG F7', 'EEG F8', 'EEG T3', 'EEG T4', 'EEG T5', 'EEG T6', 'EEG Fz', 'EEG Cz', 'EEG Pz', 'EEG FT9', 'EEG FT10', 'EEG T9', 'EEG T10', 'EEG TP9', 'EEG TP10']
+
+=========================================
+[1mModel Data.[0m
+Squared_coherence_Estimator()
+Frequency Bands: ['delta', 'theta', 'alpha', 'beta', 'gamma'] [False, True, True, True, False]
+Intervals:  [(0, 512.0), (512.0, 1024.0), (1024.0, 1536.0), (1536.0, 2047.0)]
+
+Threshold: 0.55
+Number of graphs created: 12
+Empty: [0] 
+
+data/data_vigilia/0/1_vigilia con 7.edf 0
+Extracting EDF parameters from C:\Users\Pedro Chazarra\Saved Games\CEIEC_CNN\data\data_vigilia\0\1_vigilia con 7.edf...
+EDF file detected
+Setting channel info structure...
+Creating raw.info structure...
+
+[1mEEG Information.
+[0mNumber of Channels: 25
+Sample rate: 512.0 Hz.
+Duration: 4.998 seconds.
+Channel Names: ['EEG Fp1', 'EEG Fp2', 'EEG F3', 'EEG F4', 'EEG C3', 'EEG C4', 'EEG P3', 'EEG P4', 'EEG O1', 'EEG O2', 'EEG F7', 'EEG F8', 'EEG T3', 'EEG T4', 'EEG T5', 'EEG T6', 'EEG Fz', 'EEG Cz', 'EEG Pz', 'EEG FT9', 'EEG FT10', 'EEG T9', 'EEG T10', 'EEG TP9', 'EEG TP10']
+
+=========================================
+[1mModel Data.[0m
+Squared_coherence_Estimator()
+Frequency Bands: ['delta', 'theta', 'alpha', 'beta', 'gamma'] [False, True, True, True, False]
+Intervals:  [(0, 512.0), (512.0, 1024.0), (1024.0, 1536.0), (1536.0, 2048.0), (2048.0, 2559.0)]
+
+Threshold: 0.55
+Number of graphs created: 15
+Empty: [0] 
+
+data/data_vigilia/0/1_vigilia con 8.edf 0
+Extracting EDF parameters from C:\Users\Pedro Chazarra\Saved Games\CEIEC_CNN\data\data_vigilia\0\1_vigilia con 8.edf...
+EDF file detected
+Setting channel info structure...
+Creating raw.info structure...
+
+[1mEEG Information.
+[0mNumber of Channels: 25
+Sample rate: 512.0 Hz.
+Duration: 3.998 seconds.
+Channel Names: ['EEG Fp1', 'EEG Fp2', 'EEG F3', 'EEG F4', 'EEG C3', 'EEG C4', 'EEG P3', 'EEG P4', 'EEG O1', 'EEG O2', 'EEG F7', 'EEG F8', 'EEG T3', 'EEG T4', 'EEG T5', 'EEG T6', 'EEG Fz', 'EEG Cz', 'EEG Pz', 'EEG FT9', 'EEG FT10', 'EEG T9', 'EEG T10', 'EEG TP9', 'EEG TP10']
+
+=========================================
+[1mModel Data.[0m
+Squared_coherence_Estimator()
+Frequency Bands: ['delta', 'theta', 'alpha', 'beta', 'gamma'] [False, True, True, True, False]
+Intervals:  [(0, 512.0), (512.0, 1024.0), (1024.0, 1536.0), (1536.0, 2047.0)]
+
+Threshold: 0.55
+Number of graphs created: 12
+Empty: [0] 
+
+data/data_vigilia/0/1_vigilia con 9.edf 0
+Extracting EDF parameters from C:\Users\Pedro Chazarra\Saved Games\CEIEC_CNN\data\data_vigilia\0\1_vigilia con 9.edf...
+EDF file detected
+Setting channel info structure...
+Creating raw.info structure...
+
+[1mEEG Information.
+[0mNumber of Channels: 25
+Sample rate: 512.0 Hz.
+Duration: 3.998 seconds.
+Channel Names: ['EEG Fp1', 'EEG Fp2', 'EEG F3', 'EEG F4', 'EEG C3', 'EEG C4', 'EEG P3', 'EEG P4', 'EEG O1', 'EEG O2', 'EEG F7', 'EEG F8', 'EEG T3', 'EEG T4', 'EEG T5', 'EEG T6', 'EEG Fz', 'EEG Cz', 'EEG Pz', 'EEG FT9', 'EEG FT10', 'EEG T9', 'EEG T10', 'EEG TP9', 'EEG TP10']
+
+=========================================
+[1mModel Data.[0m
+Squared_coherence_Estimator()
+Frequency Bands: ['delta', 'theta', 'alpha', 'beta', 'gamma'] [False, True, True, True, False]
+Intervals:  [(0, 512.0), (512.0, 1024.0), (1024.0, 1536.0), (1536.0, 2047.0)]
+
+Threshold: 0.55
+Number of graphs created: 12
+Empty: [0] 
+
+data/data_vigilia/0/1_vigilia sin 1.edf 0
+Extracting EDF parameters from C:\Users\Pedro Chazarra\Saved Games\CEIEC_CNN\data\data_vigilia\0\1_vigilia sin 1.edf...
+EDF file detected
+Setting channel info structure...
+Creating raw.info structure...
+
+[1mEEG Information.
+[0mNumber of Channels: 25
+Sample rate: 512.0 Hz.
+Duration: 8.998 seconds.
+Channel Names: ['EEG Fp1', 'EEG Fp2', 'EEG F3', 'EEG F4', 'EEG C3', 'EEG C4', 'EEG P3', 'EEG P4', 'EEG O1', 'EEG O2', 'EEG F7', 'EEG F8', 'EEG T3', 'EEG T4', 'EEG T5', 'EEG T6', 'EEG Fz', 'EEG Cz', 'EEG Pz', 'EEG FT9', 'EEG FT10', 'EEG T9', 'EEG T10', 'EEG TP9', 'EEG TP10']
+
+=========================================
+[1mModel Data.[0m
+Squared_coherence_Estimator()
+Frequency Bands: ['delta', 'theta', 'alpha', 'beta', 'gamma'] [False, True, True, True, False]
+Intervals:  [(0, 512.0), (512.0, 1024.0), (1024.0, 1536.0), (1536.0, 2048.0), (2048.0, 2560.0), (2560.0, 3072.0), (3072.0, 3584.0), (3584.0, 4096.0), (4096.0, 4607.0)]
+
+Threshold: 0.55
+Number of graphs created: 27
+Empty: [0] 
+
+data/data_vigilia/0/1_vigilia sin 10.edf 0
+Extracting EDF parameters from C:\Users\Pedro Chazarra\Saved Games\CEIEC_CNN\data\data_vigilia\0\1_vigilia sin 10.edf...
+EDF file detected
+Setting channel info structure...
+Creating raw.info structure...
+
+[1mEEG Information.
+[0mNumber of Channels: 25
+Sample rate: 512.0 Hz.
+Duration: 8.998 seconds.
+Channel Names: ['EEG Fp1', 'EEG Fp2', 'EEG F3', 'EEG F4', 'EEG C3', 'EEG C4', 'EEG P3', 'EEG P4', 'EEG O1', 'EEG O2', 'EEG F7', 'EEG F8', 'EEG T3', 'EEG T4', 'EEG T5', 'EEG T6', 'EEG Fz', 'EEG Cz', 'EEG Pz', 'EEG FT9', 'EEG FT10', 'EEG T9', 'EEG T10', 'EEG TP9', 'EEG TP10']
+
+=========================================
+[1mModel Data.[0m
+Squared_coherence_Estimator()
+Frequency Bands: ['delta', 'theta', 'alpha', 'beta', 'gamma'] [False, True, True, True, False]
+Intervals:  [(0, 512.0), (512.0, 1024.0), (1024.0, 1536.0), (1536.0, 2048.0), (2048.0, 2560.0), (2560.0, 3072.0), (3072.0, 3584.0), (3584.0, 4096.0), (4096.0, 4607.0)]
+
+Threshold: 0.55
+Number of graphs created: 27
+Empty: [0] 
+
+data/data_vigilia/0/1_vigilia sin 2.edf 0
+Extracting EDF parameters from C:\Users\Pedro Chazarra\Saved Games\CEIEC_CNN\data\data_vigilia\0\1_vigilia sin 2.edf...
+EDF file detected
+Setting channel info structure...
+Creating raw.info structure...
+
+[1mEEG Information.
+[0mNumber of Channels: 25
+Sample rate: 512.0 Hz.
+Duration: 7.998 seconds.
+Channel Names: ['EEG Fp1', 'EEG Fp2', 'EEG F3', 'EEG F4', 'EEG C3', 'EEG C4', 'EEG P3', 'EEG P4', 'EEG O1', 'EEG O2', 'EEG F7', 'EEG F8', 'EEG T3', 'EEG T4', 'EEG T5', 'EEG T6', 'EEG Fz', 'EEG Cz', 'EEG Pz', 'EEG FT9', 'EEG FT10', 'EEG T9', 'EEG T10', 'EEG TP9', 'EEG TP10']
+
+=========================================
+[1mModel Data.[0m
+Squared_coherence_Estimator()
+Frequency Bands: ['delta', 'theta', 'alpha', 'beta', 'gamma'] [False, True, True, True, False]
+Intervals:  [(0, 512.0), (512.0, 1024.0), (1024.0, 1536.0), (1536.0, 2048.0), (2048.0, 2560.0), (2560.0, 3072.0), (3072.0, 3584.0), (3584.0, 4095.0)]
+
+Threshold: 0.55
+Number of graphs created: 24
+Empty: [0] 
+
+data/data_vigilia/0/1_vigilia sin 3.edf 0
+Extracting EDF parameters from C:\Users\Pedro Chazarra\Saved Games\CEIEC_CNN\data\data_vigilia\0\1_vigilia sin 3.edf...
+EDF file detected
+Setting channel info structure...
+Creating raw.info structure...
+
+[1mEEG Information.
+[0mNumber of Channels: 25
+Sample rate: 512.0 Hz.
+Duration: 7.998 seconds.
+Channel Names: ['EEG Fp1', 'EEG Fp2', 'EEG F3', 'EEG F4', 'EEG C3', 'EEG C4', 'EEG P3', 'EEG P4', 'EEG O1', 'EEG O2', 'EEG F7', 'EEG F8', 'EEG T3', 'EEG T4', 'EEG T5', 'EEG T6', 'EEG Fz', 'EEG Cz', 'EEG Pz', 'EEG FT9', 'EEG FT10', 'EEG T9', 'EEG T10', 'EEG TP9', 'EEG TP10']
+
+=========================================
+[1mModel Data.[0m
+Squared_coherence_Estimator()
+Frequency Bands: ['delta', 'theta', 'alpha', 'beta', 'gamma'] [False, True, True, True, False]
+Intervals:  [(0, 512.0), (512.0, 1024.0), (1024.0, 1536.0), (1536.0, 2048.0), (2048.0, 2560.0), (2560.0, 3072.0), (3072.0, 3584.0), (3584.0, 4095.0)]
+
+Threshold: 0.55
+Number of graphs created: 24
+Empty: [0] 
+
+data/data_vigilia/0/1_vigilia sin 4.edf 0
+Extracting EDF parameters from C:\Users\Pedro Chazarra\Saved Games\CEIEC_CNN\data\data_vigilia\0\1_vigilia sin 4.edf...
+EDF file detected
+Setting channel info structure...
+Creating raw.info structure...
+
+[1mEEG Information.
+[0mNumber of Channels: 25
+Sample rate: 512.0 Hz.
+Duration: 8.998 seconds.
+Channel Names: ['EEG Fp1', 'EEG Fp2', 'EEG F3', 'EEG F4', 'EEG C3', 'EEG C4', 'EEG P3', 'EEG P4', 'EEG O1', 'EEG O2', 'EEG F7', 'EEG F8', 'EEG T3', 'EEG T4', 'EEG T5', 'EEG T6', 'EEG Fz', 'EEG Cz', 'EEG Pz', 'EEG FT9', 'EEG FT10', 'EEG T9', 'EEG T10', 'EEG TP9', 'EEG TP10']
+
+=========================================
+[1mModel Data.[0m
+Squared_coherence_Estimator()
+Frequency Bands: ['delta', 'theta', 'alpha', 'beta', 'gamma'] [False, True, True, True, False]
+Intervals:  [(0, 512.0), (512.0, 1024.0), (1024.0, 1536.0), (1536.0, 2048.0), (2048.0, 2560.0), (2560.0, 3072.0), (3072.0, 3584.0), (3584.0, 4096.0), (4096.0, 4607.0)]
+
+Threshold: 0.55
+Number of graphs created: 27
+Empty: [0] 
+
+data/data_vigilia/0/1_vigilia sin 5.edf 0
+Extracting EDF parameters from C:\Users\Pedro Chazarra\Saved Games\CEIEC_CNN\data\data_vigilia\0\1_vigilia sin 5.edf...
+EDF file detected
+Setting channel info structure...
+Creating raw.info structure...
+
+[1mEEG Information.
+[0mNumber of Channels: 25
+Sample rate: 512.0 Hz.
+Duration: 7.998 seconds.
+Channel Names: ['EEG Fp1', 'EEG Fp2', 'EEG F3', 'EEG F4', 'EEG C3', 'EEG C4', 'EEG P3', 'EEG P4', 'EEG O1', 'EEG O2', 'EEG F7', 'EEG F8', 'EEG T3', 'EEG T4', 'EEG T5', 'EEG T6', 'EEG Fz', 'EEG Cz', 'EEG Pz', 'EEG FT9', 'EEG FT10', 'EEG T9', 'EEG T10', 'EEG TP9', 'EEG TP10']
+
+=========================================
+[1mModel Data.[0m
+Squared_coherence_Estimator()
+Frequency Bands: ['delta', 'theta', 'alpha', 'beta', 'gamma'] [False, True, True, True, False]
+Intervals:  [(0, 512.0), (512.0, 1024.0), (1024.0, 1536.0), (1536.0, 2048.0), (2048.0, 2560.0), (2560.0, 3072.0), (3072.0, 3584.0), (3584.0, 4095.0)]
+
+Threshold: 0.55
+Number of graphs created: 24
+Empty: [0] 
+
+data/data_vigilia/0/1_vigilia sin 6.edf 0
+Extracting EDF parameters from C:\Users\Pedro Chazarra\Saved Games\CEIEC_CNN\data\data_vigilia\0\1_vigilia sin 6.edf...
+EDF file detected
+Setting channel info structure...
+Creating raw.info structure...
+
+[1mEEG Information.
+[0mNumber of Channels: 25
+Sample rate: 512.0 Hz.
+Duration: 7.998 seconds.
+Channel Names: ['EEG Fp1', 'EEG Fp2', 'EEG F3', 'EEG F4', 'EEG C3', 'EEG C4', 'EEG P3', 'EEG P4', 'EEG O1', 'EEG O2', 'EEG F7', 'EEG F8', 'EEG T3', 'EEG T4', 'EEG T5', 'EEG T6', 'EEG Fz', 'EEG Cz', 'EEG Pz', 'EEG FT9', 'EEG FT10', 'EEG T9', 'EEG T10', 'EEG TP9', 'EEG TP10']
+
+=========================================
+[1mModel Data.[0m
+Squared_coherence_Estimator()
+Frequency Bands: ['delta', 'theta', 'alpha', 'beta', 'gamma'] [False, True, True, True, False]
+Intervals:  [(0, 512.0), (512.0, 1024.0), (1024.0, 1536.0), (1536.0, 2048.0), (2048.0, 2560.0), (2560.0, 3072.0), (3072.0, 3584.0), (3584.0, 4095.0)]
+
+Threshold: 0.55
+Number of graphs created: 24
+Empty: [0] 
+
+data/data_vigilia/0/1_vigilia sin 7.edf 0
+Extracting EDF parameters from C:\Users\Pedro Chazarra\Saved Games\CEIEC_CNN\data\data_vigilia\0\1_vigilia sin 7.edf...
+EDF file detected
+Setting channel info structure...
+Creating raw.info structure...
+
+[1mEEG Information.
+[0mNumber of Channels: 25
+Sample rate: 512.0 Hz.
+Duration: 4.998 seconds.
+Channel Names: ['EEG Fp1', 'EEG Fp2', 'EEG F3', 'EEG F4', 'EEG C3', 'EEG C4', 'EEG P3', 'EEG P4', 'EEG O1', 'EEG O2', 'EEG F7', 'EEG F8', 'EEG T3', 'EEG T4', 'EEG T5', 'EEG T6', 'EEG Fz', 'EEG Cz', 'EEG Pz', 'EEG FT9', 'EEG FT10', 'EEG T9', 'EEG T10', 'EEG TP9', 'EEG TP10']
+
+=========================================
+[1mModel Data.[0m
+Squared_coherence_Estimator()
+Frequency Bands: ['delta', 'theta', 'alpha', 'beta', 'gamma'] [False, True, True, True, False]
+Intervals:  [(0, 512.0), (512.0, 1024.0), (1024.0, 1536.0), (1536.0, 2048.0), (2048.0, 2559.0)]
+
+Threshold: 0.55
+Number of graphs created: 15
+Empty: [0] 
+
+data/data_vigilia/0/1_vigilia sin 8.edf 0
+Extracting EDF parameters from C:\Users\Pedro Chazarra\Saved Games\CEIEC_CNN\data\data_vigilia\0\1_vigilia sin 8.edf...
+EDF file detected
+Setting channel info structure...
+Creating raw.info structure...
+
+[1mEEG Information.
+[0mNumber of Channels: 25
+Sample rate: 512.0 Hz.
+Duration: 4.998 seconds.
+Channel Names: ['EEG Fp1', 'EEG Fp2', 'EEG F3', 'EEG F4', 'EEG C3', 'EEG C4', 'EEG P3', 'EEG P4', 'EEG O1', 'EEG O2', 'EEG F7', 'EEG F8', 'EEG T3', 'EEG T4', 'EEG T5', 'EEG T6', 'EEG Fz', 'EEG Cz', 'EEG Pz', 'EEG FT9', 'EEG FT10', 'EEG T9', 'EEG T10', 'EEG TP9', 'EEG TP10']
+
+=========================================
+[1mModel Data.[0m
+Squared_coherence_Estimator()
+Frequency Bands: ['delta', 'theta', 'alpha', 'beta', 'gamma'] [False, True, True, True, False]
+Intervals:  [(0, 512.0), (512.0, 1024.0), (1024.0, 1536.0), (1536.0, 2048.0), (2048.0, 2559.0)]
+
+Threshold: 0.55
+Number of graphs created: 15
+Empty: [0] 
+
+data/data_vigilia/0/1_vigilia sin 9.edf 0
+Extracting EDF parameters from C:\Users\Pedro Chazarra\Saved Games\CEIEC_CNN\data\data_vigilia\0\1_vigilia sin 9.edf...
+EDF file detected
+Setting channel info structure...
+Creating raw.info structure...
+
+[1mEEG Information.
+[0mNumber of Channels: 25
+Sample rate: 512.0 Hz.
+Duration: 7.998 seconds.
+Channel Names: ['EEG Fp1', 'EEG Fp2', 'EEG F3', 'EEG F4', 'EEG C3', 'EEG C4', 'EEG P3', 'EEG P4', 'EEG O1', 'EEG O2', 'EEG F7', 'EEG F8', 'EEG T3', 'EEG T4', 'EEG T5', 'EEG T6', 'EEG Fz', 'EEG Cz', 'EEG Pz', 'EEG FT9', 'EEG FT10', 'EEG T9', 'EEG T10', 'EEG TP9', 'EEG TP10']
+
+=========================================
+[1mModel Data.[0m
+Squared_coherence_Estimator()
+Frequency Bands: ['delta', 'theta', 'alpha', 'beta', 'gamma'] [False, True, True, True, False]
+Intervals:  [(0, 512.0), (512.0, 1024.0), (1024.0, 1536.0), (1536.0, 2048.0), (2048.0, 2560.0), (2560.0, 3072.0), (3072.0, 3584.0), (3584.0, 4095.0)]
+
+Threshold: 0.55
+Number of graphs created: 24
+Empty: [0] 
+
+data/data_vigilia/1/1_presalva 1.edf 1
+Extracting EDF parameters from C:\Users\Pedro Chazarra\Saved Games\CEIEC_CNN\data\data_vigilia\1\1_presalva 1.edf...
+EDF file detected
+Setting channel info structure...
+Creating raw.info structure...
+
+[1mEEG Information.
+[0mNumber of Channels: 25
+Sample rate: 512.0 Hz.
+Duration: 10.998 seconds.
+Channel Names: ['EEG Fp1', 'EEG Fp2', 'EEG F3', 'EEG F4', 'EEG C3', 'EEG C4', 'EEG P3', 'EEG P4', 'EEG O1', 'EEG O2', 'EEG F7', 'EEG F8', 'EEG T3', 'EEG T4', 'EEG T5', 'EEG T6', 'EEG Fz', 'EEG Cz', 'EEG Pz', 'EEG FT9', 'EEG FT10', 'EEG T9', 'EEG T10', 'EEG TP9', 'EEG TP10']
+
+=========================================
+[1mModel Data.[0m
+Squared_coherence_Estimator()
+Frequency Bands: ['delta', 'theta', 'alpha', 'beta', 'gamma'] [False, True, True, True, False]
+Intervals:  [(0, 512.0), (512.0, 1024.0), (1024.0, 1536.0), (1536.0, 2048.0), (2048.0, 2560.0), (2560.0, 3072.0), (3072.0, 3584.0), (3584.0, 4096.0), (4096.0, 4608.0), (4608.0, 5120.0), (5120.0, 5631.0)]
+
+Threshold: 0.55
+Number of graphs created: 33
+Empty: [0] 
+
+data/data_vigilia/1/1_presalva 10.edf 1
+Extracting EDF parameters from C:\Users\Pedro Chazarra\Saved Games\CEIEC_CNN\data\data_vigilia\1\1_presalva 10.edf...
+EDF file detected
+Setting channel info structure...
+Creating raw.info structure...
+
+[1mEEG Information.
+[0mNumber of Channels: 25
+Sample rate: 512.0 Hz.
+Duration: 10.998 seconds.
+Channel Names: ['EEG Fp1', 'EEG Fp2', 'EEG F3', 'EEG F4', 'EEG C3', 'EEG C4', 'EEG P3', 'EEG P4', 'EEG O1', 'EEG O2', 'EEG F7', 'EEG F8', 'EEG T3', 'EEG T4', 'EEG T5', 'EEG T6', 'EEG Fz', 'EEG Cz', 'EEG Pz', 'EEG FT9', 'EEG FT10', 'EEG T9', 'EEG T10', 'EEG TP9', 'EEG TP10']
+
+=========================================
+[1mModel Data.[0m
+Squared_coherence_Estimator()
+Frequency Bands: ['delta', 'theta', 'alpha', 'beta', 'gamma'] [False, True, True, True, False]
+Intervals:  [(0, 512.0), (512.0, 1024.0), (1024.0, 1536.0), (1536.0, 2048.0), (2048.0, 2560.0), (2560.0, 3072.0), (3072.0, 3584.0), (3584.0, 4096.0), (4096.0, 4608.0), (4608.0, 5120.0), (5120.0, 5631.0)]
+
+Threshold: 0.55
+Number of graphs created: 33
+Empty: [0] 
+
+data/data_vigilia/1/1_presalva 11.edf 1
+Extracting EDF parameters from C:\Users\Pedro Chazarra\Saved Games\CEIEC_CNN\data\data_vigilia\1\1_presalva 11.edf...
+EDF file detected
+Setting channel info structure...
+Creating raw.info structure...
+
+[1mEEG Information.
+[0mNumber of Channels: 25
+Sample rate: 512.0 Hz.
+Duration: 10.998 seconds.
+Channel Names: ['EEG Fp1', 'EEG Fp2', 'EEG F3', 'EEG F4', 'EEG C3', 'EEG C4', 'EEG P3', 'EEG P4', 'EEG O1', 'EEG O2', 'EEG F7', 'EEG F8', 'EEG T3', 'EEG T4', 'EEG T5', 'EEG T6', 'EEG Fz', 'EEG Cz', 'EEG Pz', 'EEG FT9', 'EEG FT10', 'EEG T9', 'EEG T10', 'EEG TP9', 'EEG TP10']
+
+=========================================
+[1mModel Data.[0m
+Squared_coherence_Estimator()
+Frequency Bands: ['delta', 'theta', 'alpha', 'beta', 'gamma'] [False, True, True, True, False]
+Intervals:  [(0, 512.0), (512.0, 1024.0), (1024.0, 1536.0), (1536.0, 2048.0), (2048.0, 2560.0), (2560.0, 3072.0), (3072.0, 3584.0), (3584.0, 4096.0), (4096.0, 4608.0), (4608.0, 5120.0), (5120.0, 5631.0)]
+
+Threshold: 0.55
+Number of graphs created: 33
+Empty: [0] 
+
+data/data_vigilia/1/1_presalva 12.edf 1
+Extracting EDF parameters from C:\Users\Pedro Chazarra\Saved Games\CEIEC_CNN\data\data_vigilia\1\1_presalva 12.edf...
+EDF file detected
+Setting channel info structure...
+Creating raw.info structure...
+
+[1mEEG Information.
+[0mNumber of Channels: 25
+Sample rate: 512.0 Hz.
+Duration: 10.998 seconds.
+Channel Names: ['EEG Fp1', 'EEG Fp2', 'EEG F3', 'EEG F4', 'EEG C3', 'EEG C4', 'EEG P3', 'EEG P4', 'EEG O1', 'EEG O2', 'EEG F7', 'EEG F8', 'EEG T3', 'EEG T4', 'EEG T5', 'EEG T6', 'EEG Fz', 'EEG Cz', 'EEG Pz', 'EEG FT9', 'EEG FT10', 'EEG T9', 'EEG T10', 'EEG TP9', 'EEG TP10']
+
+=========================================
+[1mModel Data.[0m
+Squared_coherence_Estimator()
+Frequency Bands: ['delta', 'theta', 'alpha', 'beta', 'gamma'] [False, True, True, True, False]
+Intervals:  [(0, 512.0), (512.0, 1024.0), (1024.0, 1536.0), (1536.0, 2048.0), (2048.0, 2560.0), (2560.0, 3072.0), (3072.0, 3584.0), (3584.0, 4096.0), (4096.0, 4608.0), (4608.0, 5120.0), (5120.0, 5631.0)]
+
+Threshold: 0.55
+Number of graphs created: 33
+Empty: [0] 
+
+data/data_vigilia/1/1_presalva 13.edf 1
+Extracting EDF parameters from C:\Users\Pedro Chazarra\Saved Games\CEIEC_CNN\data\data_vigilia\1\1_presalva 13.edf...
+EDF file detected
+Setting channel info structure...
+Creating raw.info structure...
+
+[1mEEG Information.
+[0mNumber of Channels: 25
+Sample rate: 512.0 Hz.
+Duration: 10.998 seconds.
+Channel Names: ['EEG Fp1', 'EEG Fp2', 'EEG F3', 'EEG F4', 'EEG C3', 'EEG C4', 'EEG P3', 'EEG P4', 'EEG O1', 'EEG O2', 'EEG F7', 'EEG F8', 'EEG T3', 'EEG T4', 'EEG T5', 'EEG T6', 'EEG Fz', 'EEG Cz', 'EEG Pz', 'EEG FT9', 'EEG FT10', 'EEG T9', 'EEG T10', 'EEG TP9', 'EEG TP10']
+
+=========================================
+[1mModel Data.[0m
+Squared_coherence_Estimator()
+Frequency Bands: ['delta', 'theta', 'alpha', 'beta', 'gamma'] [False, True, True, True, False]
+Intervals:  [(0, 512.0), (512.0, 1024.0), (1024.0, 1536.0), (1536.0, 2048.0), (2048.0, 2560.0), (2560.0, 3072.0), (3072.0, 3584.0), (3584.0, 4096.0), (4096.0, 4608.0), (4608.0, 5120.0), (5120.0, 5631.0)]
+
+Threshold: 0.55
+Number of graphs created: 33
+Empty: [0] 
+
+data/data_vigilia/1/1_presalva 2.edf 1
+Extracting EDF parameters from C:\Users\Pedro Chazarra\Saved Games\CEIEC_CNN\data\data_vigilia\1\1_presalva 2.edf...
+EDF file detected
+Setting channel info structure...
+Creating raw.info structure...
+
+[1mEEG Information.
+[0mNumber of Channels: 25
+Sample rate: 512.0 Hz.
+Duration: 10.998 seconds.
+Channel Names: ['EEG Fp1', 'EEG Fp2', 'EEG F3', 'EEG F4', 'EEG C3', 'EEG C4', 'EEG P3', 'EEG P4', 'EEG O1', 'EEG O2', 'EEG F7', 'EEG F8', 'EEG T3', 'EEG T4', 'EEG T5', 'EEG T6', 'EEG Fz', 'EEG Cz', 'EEG Pz', 'EEG FT9', 'EEG FT10', 'EEG T9', 'EEG T10', 'EEG TP9', 'EEG TP10']
+
+=========================================
+[1mModel Data.[0m
+Squared_coherence_Estimator()
+Frequency Bands: ['delta', 'theta', 'alpha', 'beta', 'gamma'] [False, True, True, True, False]
+Intervals:  [(0, 512.0), (512.0, 1024.0), (1024.0, 1536.0), (1536.0, 2048.0), (2048.0, 2560.0), (2560.0, 3072.0), (3072.0, 3584.0), (3584.0, 4096.0), (4096.0, 4608.0), (4608.0, 5120.0), (5120.0, 5631.0)]
+
+Threshold: 0.55
+Number of graphs created: 33
+Empty: [0] 
+
+data/data_vigilia/1/1_presalva 3.edf 1
+Extracting EDF parameters from C:\Users\Pedro Chazarra\Saved Games\CEIEC_CNN\data\data_vigilia\1\1_presalva 3.edf...
+EDF file detected
+Setting channel info structure...
+Creating raw.info structure...
+
+[1mEEG Information.
+[0mNumber of Channels: 25
+Sample rate: 512.0 Hz.
+Duration: 10.998 seconds.
+Channel Names: ['EEG Fp1', 'EEG Fp2', 'EEG F3', 'EEG F4', 'EEG C3', 'EEG C4', 'EEG P3', 'EEG P4', 'EEG O1', 'EEG O2', 'EEG F7', 'EEG F8', 'EEG T3', 'EEG T4', 'EEG T5', 'EEG T6', 'EEG Fz', 'EEG Cz', 'EEG Pz', 'EEG FT9', 'EEG FT10', 'EEG T9', 'EEG T10', 'EEG TP9', 'EEG TP10']
+
+=========================================
+[1mModel Data.[0m
+Squared_coherence_Estimator()
+Frequency Bands: ['delta', 'theta', 'alpha', 'beta', 'gamma'] [False, True, True, True, False]
+Intervals:  [(0, 512.0), (512.0, 1024.0), (1024.0, 1536.0), (1536.0, 2048.0), (2048.0, 2560.0), (2560.0, 3072.0), (3072.0, 3584.0), (3584.0, 4096.0), (4096.0, 4608.0), (4608.0, 5120.0), (5120.0, 5631.0)]
+
+Threshold: 0.55
+Number of graphs created: 33
+Empty: [0] 
+
+data/data_vigilia/1/1_presalva 4.edf 1
+Extracting EDF parameters from C:\Users\Pedro Chazarra\Saved Games\CEIEC_CNN\data\data_vigilia\1\1_presalva 4.edf...
+EDF file detected
+Setting channel info structure...
+Creating raw.info structure...
+
+[1mEEG Information.
+[0mNumber of Channels: 25
+Sample rate: 512.0 Hz.
+Duration: 10.998 seconds.
+Channel Names: ['EEG Fp1', 'EEG Fp2', 'EEG F3', 'EEG F4', 'EEG C3', 'EEG C4', 'EEG P3', 'EEG P4', 'EEG O1', 'EEG O2', 'EEG F7', 'EEG F8', 'EEG T3', 'EEG T4', 'EEG T5', 'EEG T6', 'EEG Fz', 'EEG Cz', 'EEG Pz', 'EEG FT9', 'EEG FT10', 'EEG T9', 'EEG T10', 'EEG TP9', 'EEG TP10']
+
+=========================================
+[1mModel Data.[0m
+Squared_coherence_Estimator()
+Frequency Bands: ['delta', 'theta', 'alpha', 'beta', 'gamma'] [False, True, True, True, False]
+Intervals:  [(0, 512.0), (512.0, 1024.0), (1024.0, 1536.0), (1536.0, 2048.0), (2048.0, 2560.0), (2560.0, 3072.0), (3072.0, 3584.0), (3584.0, 4096.0), (4096.0, 4608.0), (4608.0, 5120.0), (5120.0, 5631.0)]
+
+Threshold: 0.55
+Number of graphs created: 33
+Empty: [0] 
+
+data/data_vigilia/1/1_presalva 5.edf 1
+Extracting EDF parameters from C:\Users\Pedro Chazarra\Saved Games\CEIEC_CNN\data\data_vigilia\1\1_presalva 5.edf...
+EDF file detected
+Setting channel info structure...
+Creating raw.info structure...
+
+[1mEEG Information.
+[0mNumber of Channels: 25
+Sample rate: 512.0 Hz.
+Duration: 10.998 seconds.
+Channel Names: ['EEG Fp1', 'EEG Fp2', 'EEG F3', 'EEG F4', 'EEG C3', 'EEG C4', 'EEG P3', 'EEG P4', 'EEG O1', 'EEG O2', 'EEG F7', 'EEG F8', 'EEG T3', 'EEG T4', 'EEG T5', 'EEG T6', 'EEG Fz', 'EEG Cz', 'EEG Pz', 'EEG FT9', 'EEG FT10', 'EEG T9', 'EEG T10', 'EEG TP9', 'EEG TP10']
+
+=========================================
+[1mModel Data.[0m
+Squared_coherence_Estimator()
+Frequency Bands: ['delta', 'theta', 'alpha', 'beta', 'gamma'] [False, True, True, True, False]
+Intervals:  [(0, 512.0), (512.0, 1024.0), (1024.0, 1536.0), (1536.0, 2048.0), (2048.0, 2560.0), (2560.0, 3072.0), (3072.0, 3584.0), (3584.0, 4096.0), (4096.0, 4608.0), (4608.0, 5120.0), (5120.0, 5631.0)]
+
+Threshold: 0.55
+Number of graphs created: 33
+Empty: [0] 
+
+data/data_vigilia/1/1_presalva 6.edf 1
+Extracting EDF parameters from C:\Users\Pedro Chazarra\Saved Games\CEIEC_CNN\data\data_vigilia\1\1_presalva 6.edf...
+EDF file detected
+Setting channel info structure...
+Creating raw.info structure...
+
+[1mEEG Information.
+[0mNumber of Channels: 25
+Sample rate: 512.0 Hz.
+Duration: 10.998 seconds.
+Channel Names: ['EEG Fp1', 'EEG Fp2', 'EEG F3', 'EEG F4', 'EEG C3', 'EEG C4', 'EEG P3', 'EEG P4', 'EEG O1', 'EEG O2', 'EEG F7', 'EEG F8', 'EEG T3', 'EEG T4', 'EEG T5', 'EEG T6', 'EEG Fz', 'EEG Cz', 'EEG Pz', 'EEG FT9', 'EEG FT10', 'EEG T9', 'EEG T10', 'EEG TP9', 'EEG TP10']
+
+=========================================
+[1mModel Data.[0m
+Squared_coherence_Estimator()
+Frequency Bands: ['delta', 'theta', 'alpha', 'beta', 'gamma'] [False, True, True, True, False]
+Intervals:  [(0, 512.0), (512.0, 1024.0), (1024.0, 1536.0), (1536.0, 2048.0), (2048.0, 2560.0), (2560.0, 3072.0), (3072.0, 3584.0), (3584.0, 4096.0), (4096.0, 4608.0), (4608.0, 5120.0), (5120.0, 5631.0)]
+
+Threshold: 0.55
+Number of graphs created: 33
+Empty: [0] 
+
+data/data_vigilia/1/1_presalva 7.edf 1
+Extracting EDF parameters from C:\Users\Pedro Chazarra\Saved Games\CEIEC_CNN\data\data_vigilia\1\1_presalva 7.edf...
+EDF file detected
+Setting channel info structure...
+Creating raw.info structure...
+
+[1mEEG Information.
+[0mNumber of Channels: 25
+Sample rate: 512.0 Hz.
+Duration: 10.998 seconds.
+Channel Names: ['EEG Fp1', 'EEG Fp2', 'EEG F3', 'EEG F4', 'EEG C3', 'EEG C4', 'EEG P3', 'EEG P4', 'EEG O1', 'EEG O2', 'EEG F7', 'EEG F8', 'EEG T3', 'EEG T4', 'EEG T5', 'EEG T6', 'EEG Fz', 'EEG Cz', 'EEG Pz', 'EEG FT9', 'EEG FT10', 'EEG T9', 'EEG T10', 'EEG TP9', 'EEG TP10']
+
+=========================================
+[1mModel Data.[0m
+Squared_coherence_Estimator()
+Frequency Bands: ['delta', 'theta', 'alpha', 'beta', 'gamma'] [False, True, True, True, False]
+Intervals:  [(0, 512.0), (512.0, 1024.0), (1024.0, 1536.0), (1536.0, 2048.0), (2048.0, 2560.0), (2560.0, 3072.0), (3072.0, 3584.0), (3584.0, 4096.0), (4096.0, 4608.0), (4608.0, 5120.0), (5120.0, 5631.0)]
+
+Threshold: 0.55
+Number of graphs created: 33
+Empty: [0] 
+
+data/data_vigilia/1/1_presalva 8.edf 1
+Extracting EDF parameters from C:\Users\Pedro Chazarra\Saved Games\CEIEC_CNN\data\data_vigilia\1\1_presalva 8.edf...
+EDF file detected
+Setting channel info structure...
+Creating raw.info structure...
+
+[1mEEG Information.
+[0mNumber of Channels: 25
+Sample rate: 512.0 Hz.
+Duration: 10.998 seconds.
+Channel Names: ['EEG Fp1', 'EEG Fp2', 'EEG F3', 'EEG F4', 'EEG C3', 'EEG C4', 'EEG P3', 'EEG P4', 'EEG O1', 'EEG O2', 'EEG F7', 'EEG F8', 'EEG T3', 'EEG T4', 'EEG T5', 'EEG T6', 'EEG Fz', 'EEG Cz', 'EEG Pz', 'EEG FT9', 'EEG FT10', 'EEG T9', 'EEG T10', 'EEG TP9', 'EEG TP10']
+
+=========================================
+[1mModel Data.[0m
+Squared_coherence_Estimator()
+Frequency Bands: ['delta', 'theta', 'alpha', 'beta', 'gamma'] [False, True, True, True, False]
+Intervals:  [(0, 512.0), (512.0, 1024.0), (1024.0, 1536.0), (1536.0, 2048.0), (2048.0, 2560.0), (2560.0, 3072.0), (3072.0, 3584.0), (3584.0, 4096.0), (4096.0, 4608.0), (4608.0, 5120.0), (5120.0, 5631.0)]
+
+Threshold: 0.55
+Number of graphs created: 33
+Empty: [0] 
+
+data/data_vigilia/1/1_presalva 9.edf 1
+Extracting EDF parameters from C:\Users\Pedro Chazarra\Saved Games\CEIEC_CNN\data\data_vigilia\1\1_presalva 9.edf...
+EDF file detected
+Setting channel info structure...
+Creating raw.info structure...
+
+[1mEEG Information.
+[0mNumber of Channels: 25
+Sample rate: 512.0 Hz.
+Duration: 10.998 seconds.
+Channel Names: ['EEG Fp1', 'EEG Fp2', 'EEG F3', 'EEG F4', 'EEG C3', 'EEG C4', 'EEG P3', 'EEG P4', 'EEG O1', 'EEG O2', 'EEG F7', 'EEG F8', 'EEG T3', 'EEG T4', 'EEG T5', 'EEG T6', 'EEG Fz', 'EEG Cz', 'EEG Pz', 'EEG FT9', 'EEG FT10', 'EEG T9', 'EEG T10', 'EEG TP9', 'EEG TP10']
+
+=========================================
+[1mModel Data.[0m
+Squared_coherence_Estimator()
+Frequency Bands: ['delta', 'theta', 'alpha', 'beta', 'gamma'] [False, True, True, True, False]
+Intervals:  [(0, 512.0), (512.0, 1024.0), (1024.0, 1536.0), (1536.0, 2048.0), (2048.0, 2560.0), (2560.0, 3072.0), (3072.0, 3584.0), (3584.0, 4096.0), (4096.0, 4608.0), (4608.0, 5120.0), (5120.0, 5631.0)]
+
+Threshold: 0.55
+Number of graphs created: 33
+Empty: [0] 
+
+data/data_vigilia/1/3_presalva 1.edf 1
+Extracting EDF parameters from C:\Users\Pedro Chazarra\Saved Games\CEIEC_CNN\data\data_vigilia\1\3_presalva 1.edf...
+EDF file detected
+Setting channel info structure...
+Creating raw.info structure...
+
+[1mEEG Information.
+[0mNumber of Channels: 25
+Sample rate: 512.0 Hz.
+Duration: 10.998 seconds.
+Channel Names: ['EEG Fp1', 'EEG Fp2', 'EEG F3', 'EEG F4', 'EEG C3', 'EEG C4', 'EEG P3', 'EEG P4', 'EEG O1', 'EEG O2', 'EEG F7', 'EEG F8', 'EEG T3', 'EEG T4', 'EEG T5', 'EEG T6', 'EEG Fz', 'EEG Cz', 'EEG Pz', 'EEG FT9', 'EEG FT10', 'EEG T9', 'EEG T10', 'EEG TP9', 'EEG TP10']
+
+=========================================
+[1mModel Data.[0m
+Squared_coherence_Estimator()
+Frequency Bands: ['delta', 'theta', 'alpha', 'beta', 'gamma'] [False, True, True, True, False]
+Intervals:  [(0, 512.0), (512.0, 1024.0), (1024.0, 1536.0), (1536.0, 2048.0), (2048.0, 2560.0), (2560.0, 3072.0), (3072.0, 3584.0), (3584.0, 4096.0), (4096.0, 4608.0), (4608.0, 5120.0), (5120.0, 5631.0)]
+
+Threshold: 0.55
+Number of graphs created: 33
+Empty: [0] 
+
+
+=========================================
+Total graphs Generated for class 0:  444
+Total graphs Generated for class 1:  462
+
+=====================================================================
+
+=====================================================================
+
+Number of Empty graphs. Class 0:  0
+Empty graphs (True). {0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: False, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: False, 20: False, 21: False, 22: False, 23: False, 24: False, 25: False, 26: False, 27: False, 28: False, 29: False, 30: False, 31: False, 32: False, 33: False, 34: False, 35: False, 36: False, 37: False, 38: False, 39: False, 40: False, 41: False, 42: False, 43: False, 44: False, 45: False, 46: False, 47: False, 48: False, 49: False, 50: False, 51: False, 52: False, 53: False, 54: False, 55: False, 56: False, 57: False, 58: False, 59: False, 60: False, 61: False, 62: False, 63: False, 64: False, 65: False, 66: False, 67: False, 68: False, 69: False, 70: False, 71: False, 72: False, 73: False, 74: False, 75: False, 76: False, 77: False, 78: False, 79: False, 80: False, 81: False, 82: False, 83: False, 84: False, 85: False, 86: False, 87: False, 88: False, 89: False, 90: False, 91: False, 92: False, 93: False, 94: False, 95: False, 96: False, 97: False, 98: False, 99: False, 100: False, 101: False, 102: False, 103: False, 104: False, 105: False, 106: False, 107: False, 108: False, 109: False, 110: False, 111: False, 112: False, 113: False, 114: False, 115: False, 116: False, 117: False, 118: False, 119: False, 120: False, 121: False, 122: False, 123: False, 124: False, 125: False, 126: False, 127: False, 128: False, 129: False, 130: False, 131: False, 132: False, 133: False, 134: False, 135: False, 136: False, 137: False, 138: False, 139: False, 140: False, 141: False, 142: False, 143: False, 144: False, 145: False, 146: False, 147: False, 148: False, 149: False, 150: False, 151: False, 152: False, 153: False, 154: False, 155: False, 156: False, 157: False, 158: False, 159: False, 160: False, 161: False, 162: False, 163: False, 164: False, 165: False, 166: False, 167: False, 168: False, 169: False, 170: False, 171: False, 172: False, 173: False, 174: False, 175: False, 176: False, 177: False, 178: False, 179: False, 180: False, 181: False, 182: False, 183: False, 184: False, 185: False, 186: False, 187: False, 188: False, 189: False, 190: False, 191: False, 192: False, 193: False, 194: False, 195: False, 196: False, 197: False, 198: False, 199: False, 200: False, 201: False, 202: False, 203: False, 204: False, 205: False, 206: False, 207: False, 208: False, 209: False, 210: False, 211: False, 212: False, 213: False, 214: False, 215: False, 216: False, 217: False, 218: False, 219: False, 220: False, 221: False, 222: False, 223: False, 224: False, 225: False, 226: False, 227: False, 228: False, 229: False, 230: False, 231: False, 232: False, 233: False, 234: False, 235: False, 236: False, 237: False, 238: False, 239: False, 240: False, 241: False, 242: False, 243: False, 244: False, 245: False, 246: False, 247: False, 248: False, 249: False, 250: False, 251: False, 252: False, 253: False, 254: False, 255: False, 256: False, 257: False, 258: False, 259: False, 260: False, 261: False, 262: False, 263: False, 264: False, 265: False, 266: False, 267: False, 268: False, 269: False, 270: False, 271: False, 272: False, 273: False, 274: False, 275: False, 276: False, 277: False, 278: False, 279: False, 280: False, 281: False, 282: False, 283: False, 284: False, 285: False, 286: False, 287: False, 288: False, 289: False, 290: False, 291: False, 292: False, 293: False, 294: False, 295: False, 296: False, 297: False, 298: False, 299: False, 300: False, 301: False, 302: False, 303: False, 304: False, 305: False, 306: False, 307: False, 308: False, 309: False, 310: False, 311: False, 312: False, 313: False, 314: False, 315: False, 316: False, 317: False, 318: False, 319: False, 320: False, 321: False, 322: False, 323: False, 324: False, 325: False, 326: False, 327: False, 328: False, 329: False, 330: False, 331: False, 332: False, 333: False, 334: False, 335: False, 336: False, 337: False, 338: False, 339: False, 340: False, 341: False, 342: False, 343: False, 344: False, 345: False, 346: False, 347: False, 348: False, 349: False, 350: False, 351: False, 352: False, 353: False, 354: False, 355: False, 356: False, 357: False, 358: False, 359: False, 360: False, 361: False, 362: False, 363: False, 364: False, 365: False, 366: False, 367: False, 368: False, 369: False, 370: False, 371: False, 372: False, 373: False, 374: False, 375: False, 376: False, 377: False, 378: False, 379: False, 380: False, 381: False, 382: False, 383: False, 384: False, 385: False, 386: False, 387: False, 388: False, 389: False, 390: False, 391: False, 392: False, 393: False, 394: False, 395: False, 396: False, 397: False, 398: False, 399: False, 400: False, 401: False, 402: False, 403: False, 404: False, 405: False, 406: False, 407: False, 408: False, 409: False, 410: False, 411: False, 412: False, 413: False, 414: False, 415: False, 416: False, 417: False, 418: False, 419: False, 420: False, 421: False, 422: False, 423: False, 424: False, 425: False, 426: False, 427: False, 428: False, 429: False, 430: False, 431: False, 432: False, 433: False, 434: False, 435: False, 436: False, 437: False, 438: False, 439: False, 440: False, 441: False, 442: False, 443: False}
+
+Number of Empty graphs. Class 1:  0
+Empty graphs (True). {0: False, 1: False, 2: False, 3: False, 4: False, 5: False, 6: False, 7: False, 8: False, 9: False, 10: False, 11: False, 12: False, 13: False, 14: False, 15: False, 16: False, 17: False, 18: False, 19: False, 20: False, 21: False, 22: False, 23: False, 24: False, 25: False, 26: False, 27: False, 28: False, 29: False, 30: False, 31: False, 32: False, 33: False, 34: False, 35: False, 36: False, 37: False, 38: False, 39: False, 40: False, 41: False, 42: False, 43: False, 44: False, 45: False, 46: False, 47: False, 48: False, 49: False, 50: False, 51: False, 52: False, 53: False, 54: False, 55: False, 56: False, 57: False, 58: False, 59: False, 60: False, 61: False, 62: False, 63: False, 64: False, 65: False, 66: False, 67: False, 68: False, 69: False, 70: False, 71: False, 72: False, 73: False, 74: False, 75: False, 76: False, 77: False, 78: False, 79: False, 80: False, 81: False, 82: False, 83: False, 84: False, 85: False, 86: False, 87: False, 88: False, 89: False, 90: False, 91: False, 92: False, 93: False, 94: False, 95: False, 96: False, 97: False, 98: False, 99: False, 100: False, 101: False, 102: False, 103: False, 104: False, 105: False, 106: False, 107: False, 108: False, 109: False, 110: False, 111: False, 112: False, 113: False, 114: False, 115: False, 116: False, 117: False, 118: False, 119: False, 120: False, 121: False, 122: False, 123: False, 124: False, 125: False, 126: False, 127: False, 128: False, 129: False, 130: False, 131: False, 132: False, 133: False, 134: False, 135: False, 136: False, 137: False, 138: False, 139: False, 140: False, 141: False, 142: False, 143: False, 144: False, 145: False, 146: False, 147: False, 148: False, 149: False, 150: False, 151: False, 152: False, 153: False, 154: False, 155: False, 156: False, 157: False, 158: False, 159: False, 160: False, 161: False, 162: False, 163: False, 164: False, 165: False, 166: False, 167: False, 168: False, 169: False, 170: False, 171: False, 172: False, 173: False, 174: False, 175: False, 176: False, 177: False, 178: False, 179: False, 180: False, 181: False, 182: False, 183: False, 184: False, 185: False, 186: False, 187: False, 188: False, 189: False, 190: False, 191: False, 192: False, 193: False, 194: False, 195: False, 196: False, 197: False, 198: False, 199: False, 200: False, 201: False, 202: False, 203: False, 204: False, 205: False, 206: False, 207: False, 208: False, 209: False, 210: False, 211: False, 212: False, 213: False, 214: False, 215: False, 216: False, 217: False, 218: False, 219: False, 220: False, 221: False, 222: False, 223: False, 224: False, 225: False, 226: False, 227: False, 228: False, 229: False, 230: False, 231: False, 232: False, 233: False, 234: False, 235: False, 236: False, 237: False, 238: False, 239: False, 240: False, 241: False, 242: False, 243: False, 244: False, 245: False, 246: False, 247: False, 248: False, 249: False, 250: False, 251: False, 252: False, 253: False, 254: False, 255: False, 256: False, 257: False, 258: False, 259: False, 260: False, 261: False, 262: False, 263: False, 264: False, 265: False, 266: False, 267: False, 268: False, 269: False, 270: False, 271: False, 272: False, 273: False, 274: False, 275: False, 276: False, 277: False, 278: False, 279: False, 280: False, 281: False, 282: False, 283: False, 284: False, 285: False, 286: False, 287: False, 288: False, 289: False, 290: False, 291: False, 292: False, 293: False, 294: False, 295: False, 296: False, 297: False, 298: False, 299: False, 300: False, 301: False, 302: False, 303: False, 304: False, 305: False, 306: False, 307: False, 308: False, 309: False, 310: False, 311: False, 312: False, 313: False, 314: False, 315: False, 316: False, 317: False, 318: False, 319: False, 320: False, 321: False, 322: False, 323: False, 324: False, 325: False, 326: False, 327: False, 328: False, 329: False, 330: False, 331: False, 332: False, 333: False, 334: False, 335: False, 336: False, 337: False, 338: False, 339: False, 340: False, 341: False, 342: False, 343: False, 344: False, 345: False, 346: False, 347: False, 348: False, 349: False, 350: False, 351: False, 352: False, 353: False, 354: False, 355: False, 356: False, 357: False, 358: False, 359: False, 360: False, 361: False, 362: False, 363: False, 364: False, 365: False, 366: False, 367: False, 368: False, 369: False, 370: False, 371: False, 372: False, 373: False, 374: False, 375: False, 376: False, 377: False, 378: False, 379: False, 380: False, 381: False, 382: False, 383: False, 384: False, 385: False, 386: False, 387: False, 388: False, 389: False, 390: False, 391: False, 392: False, 393: False, 394: False, 395: False, 396: False, 397: False, 398: False, 399: False, 400: False, 401: False, 402: False, 403: False, 404: False, 405: False, 406: False, 407: False, 408: False, 409: False, 410: False, 411: False, 412: False, 413: False, 414: False, 415: False, 416: False, 417: False, 418: False, 419: False, 420: False, 421: False, 422: False, 423: False, 424: False, 425: False, 426: False, 427: False, 428: False, 429: False, 430: False, 431: False, 432: False, 433: False, 434: False, 435: False, 436: False, 437: False, 438: False, 439: False, 440: False, 441: False, 442: False, 443: False, 444: False, 445: False, 446: False, 447: False, 448: False, 449: False, 450: False, 451: False, 452: False, 453: False, 454: False, 455: False, 456: False, 457: False, 458: False, 459: False, 460: False, 461: False}
+
+=====================================================================
+Deleting empty graphs.
+
+Total graphs for class 0:  444
+Total graphs for class 1:  462
+
+=====================================================================
+AVG Graph Density.
+
+Class 0 :
+Avg:  0.3268
+STD: 0.1538
+
+Class 1 :
+Avg:  0.2477
+STD: 0.1283
+
+=====================================================================
+Mean values and Standar Deviation for edges in the graphs.
+
+Class 0 :
+Mean: 0.71803
+STD: 0.11871
+
+Class 1 :
+Mean: 0.69867
+STD: 0.1109
+
+=====================================================================
+Avg Number of Edges in each class.
+
+Class 0 :
+Avg Number of Edges: 98.0
+STD: 46.151
+
+Class 1 :
+Avg Number of Edges: 74.3
+STD: 38.496
+
+=====================================================================
+AVG Graph Clustering.
+
+Class 0 :
+Avg:  0.4381
+STD: 0.11
+
+Class 1 :
+Avg:  0.3744
+STD: 0.122
+
+=====================================================================
+Avg Degree per node in graphs.
+
+Class 0 :
+Nodo:  Fp1  -  10.8 	STD: 4.43
+Nodo:  Fp2  -  10.6 	STD: 4.7
+Nodo:  F3  -  10.2 	STD: 4.55
+Nodo:  F4  -  10.1 	STD: 4.9
+Nodo:  C3  -  8.2 	STD: 5.25
+Nodo:  C4  -  8.5 	STD: 5.31
+Nodo:  P3  -  6.8 	STD: 5.28
+Nodo:  P4  -  6.8 	STD: 4.92
+Nodo:  O1  -  7.0 	STD: 5.13
+Nodo:  O2  -  6.5 	STD: 4.84
+Nodo:  F7  -  10.3 	STD: 4.57
+Nodo:  F8  -  10.5 	STD: 4.68
+Nodo:  T3  -  9.8 	STD: 4.98
+Nodo:  T4  -  9.6 	STD: 5.11
+Nodo:  T5  -  8.2 	STD: 5.17
+Nodo:  T6  -  7.5 	STD: 4.89
+Nodo:  Fz  -  10.3 	STD: 4.43
+Nodo:  Cz  -  8.5 	STD: 5.28
+Nodo:  Pz  -  7.3 	STD: 5.3
+Nodo:  FT9  -  5.0 	STD: 4.25
+Nodo:  FT10  -  5.0 	STD: 4.72
+Nodo:  T9  -  4.9 	STD: 4.2
+Nodo:  T10  -  5.0 	STD: 4.63
+Nodo:  TP9  -  4.7 	STD: 4.23
+Nodo:  TP10  -  4.0 	STD: 4.49
+
+Class 1 :
+Nodo:  Fp1  -  7.8 	STD: 4.36
+Nodo:  Fp2  -  7.3 	STD: 4.45
+Nodo:  F3  -  7.5 	STD: 4.35
+Nodo:  F4  -  7.3 	STD: 4.45
+Nodo:  C3  -  5.5 	STD: 4.39
+Nodo:  C4  -  5.7 	STD: 4.42
+Nodo:  P3  -  4.9 	STD: 3.95
+Nodo:  P4  -  5.5 	STD: 4.1
+Nodo:  O1  -  5.8 	STD: 4.1
+Nodo:  O2  -  6.1 	STD: 4.18
+Nodo:  F7  -  7.5 	STD: 4.47
+Nodo:  F8  -  7.3 	STD: 4.49
+Nodo:  T3  -  7.0 	STD: 4.49
+Nodo:  T4  -  6.8 	STD: 4.7
+Nodo:  T5  -  6.4 	STD: 4.18
+Nodo:  T6  -  6.3 	STD: 3.98
+Nodo:  Fz  -  7.7 	STD: 4.21
+Nodo:  Cz  -  5.8 	STD: 4.32
+Nodo:  Pz  -  5.3 	STD: 4.25
+Nodo:  FT9  -  4.4 	STD: 3.65
+Nodo:  FT10  -  4.3 	STD: 3.6
+Nodo:  T9  -  4.6 	STD: 3.62
+Nodo:  T10  -  4.2 	STD: 3.54
+Nodo:  TP9  -  4.6 	STD: 3.87
+Nodo:  TP10  -  3.2 	STD: 3.55
+
+=====================================================================
+Degree Centrality.
+
+Class 0 :
+Nodo:  Fp1 -  0.4492 	STD: 0.1847
+Nodo:  Fp2 -  0.441 	STD: 0.1957
+Nodo:  F3 -  0.4249 	STD: 0.1898
+Nodo:  F4 -  0.4202 	STD: 0.2041
+Nodo:  C3 -  0.343 	STD: 0.2189
+Nodo:  C4 -  0.3538 	STD: 0.2214
+Nodo:  P3 -  0.2824 	STD: 0.2202
+Nodo:  P4 -  0.2843 	STD: 0.2051
+Nodo:  O1 -  0.2919 	STD: 0.2136
+Nodo:  O2 -  0.2705 	STD: 0.2016
+Nodo:  F7 -  0.4294 	STD: 0.1906
+Nodo:  F8 -  0.4379 	STD: 0.1951
+Nodo:  T3 -  0.4076 	STD: 0.2076
+Nodo:  T4 -  0.3997 	STD: 0.2131
+Nodo:  T5 -  0.3431 	STD: 0.2156
+Nodo:  T6 -  0.311 	STD: 0.2038
+Nodo:  Fz -  0.43 	STD: 0.1846
+Nodo:  Cz -  0.3529 	STD: 0.2201
+Nodo:  Pz -  0.3036 	STD: 0.2209
+Nodo:  FT9 -  0.2081 	STD: 0.1772
+Nodo:  FT10 -  0.208 	STD: 0.1965
+Nodo:  T9 -  0.2051 	STD: 0.1749
+Nodo:  T10 -  0.2075 	STD: 0.1927
+Nodo:  TP9 -  0.1969 	STD: 0.1762
+Nodo:  TP10 -  0.1672 	STD: 0.187
+
+Class 1 :
+Nodo:  Fp1 -  0.3234 	STD: 0.1818
+Nodo:  Fp2 -  0.3022 	STD: 0.1853
+Nodo:  F3 -  0.3113 	STD: 0.1814
+Nodo:  F4 -  0.3047 	STD: 0.1853
+Nodo:  C3 -  0.2287 	STD: 0.1829
+Nodo:  C4 -  0.2386 	STD: 0.1841
+Nodo:  P3 -  0.2038 	STD: 0.1645
+Nodo:  P4 -  0.2278 	STD: 0.1708
+Nodo:  O1 -  0.2436 	STD: 0.1709
+Nodo:  O2 -  0.2527 	STD: 0.1741
+Nodo:  F7 -  0.3111 	STD: 0.1862
+Nodo:  F8 -  0.3027 	STD: 0.1872
+Nodo:  T3 -  0.2905 	STD: 0.1872
+Nodo:  T4 -  0.2842 	STD: 0.1957
+Nodo:  T5 -  0.2682 	STD: 0.1743
+Nodo:  T6 -  0.2636 	STD: 0.166
+Nodo:  Fz -  0.3194 	STD: 0.1754
+Nodo:  Cz -  0.2418 	STD: 0.1801
+Nodo:  Pz -  0.2195 	STD: 0.1771
+Nodo:  FT9 -  0.1821 	STD: 0.1522
+Nodo:  FT10 -  0.181 	STD: 0.1501
+Nodo:  T9 -  0.1928 	STD: 0.1508
+Nodo:  T10 -  0.1735 	STD: 0.1474
+Nodo:  TP9 -  0.1907 	STD: 0.1611
+Nodo:  TP10 -  0.1337 	STD: 0.1481
+
+=====================================================================
+Betweenness Centrality.
+
+Class 0 :
+Nodo:  Fp1  -  0.0319 	STD: 0.0566
+Nodo:  Fp2  -  0.0385 	STD: 0.0608
+Nodo:  F3  -  0.0415 	STD: 0.063
+Nodo:  F4  -  0.0376 	STD: 0.0541
+Nodo:  C3  -  0.0375 	STD: 0.0503
+Nodo:  C4  -  0.0388 	STD: 0.0596
+Nodo:  P3  -  0.0376 	STD: 0.0564
+Nodo:  P4  -  0.0399 	STD: 0.0639
+Nodo:  O1  -  0.0474 	STD: 0.0757
+Nodo:  O2  -  0.0398 	STD: 0.0648
+Nodo:  F7  -  0.0411 	STD: 0.0623
+Nodo:  F8  -  0.0509 	STD: 0.0753
+Nodo:  T3  -  0.0458 	STD: 0.0681
+Nodo:  T4  -  0.056 	STD: 0.0708
+Nodo:  T5  -  0.0526 	STD: 0.072
+Nodo:  T6  -  0.0502 	STD: 0.0658
+Nodo:  Fz  -  0.0396 	STD: 0.0578
+Nodo:  Cz  -  0.039 	STD: 0.054
+Nodo:  Pz  -  0.0459 	STD: 0.0676
+Nodo:  FT9  -  0.0388 	STD: 0.0599
+Nodo:  FT10  -  0.0281 	STD: 0.0492
+Nodo:  T9  -  0.0358 	STD: 0.0586
+Nodo:  T10  -  0.031 	STD: 0.0534
+Nodo:  TP9  -  0.0349 	STD: 0.0607
+Nodo:  TP10  -  0.0227 	STD: 0.05
+
+Class 1 :
+Nodo:  Fp1  -  0.0471 	STD: 0.0629
+Nodo:  Fp2  -  0.0426 	STD: 0.0661
+Nodo:  F3  -  0.052 	STD: 0.075
+Nodo:  F4  -  0.0514 	STD: 0.0675
+Nodo:  C3  -  0.0402 	STD: 0.0624
+Nodo:  C4  -  0.0431 	STD: 0.0663
+Nodo:  P3  -  0.0406 	STD: 0.0644
+Nodo:  P4  -  0.0397 	STD: 0.0653
+Nodo:  O1  -  0.0515 	STD: 0.0705
+Nodo:  O2  -  0.0544 	STD: 0.067
+Nodo:  F7  -  0.0483 	STD: 0.0645
+Nodo:  F8  -  0.0479 	STD: 0.0674
+Nodo:  T3  -  0.0548 	STD: 0.0724
+Nodo:  T4  -  0.0498 	STD: 0.0682
+Nodo:  T5  -  0.0582 	STD: 0.0756
+Nodo:  T6  -  0.0539 	STD: 0.0653
+Nodo:  Fz  -  0.052 	STD: 0.0703
+Nodo:  Cz  -  0.0403 	STD: 0.0644
+Nodo:  Pz  -  0.0452 	STD: 0.0639
+Nodo:  FT9  -  0.0384 	STD: 0.0623
+Nodo:  FT10  -  0.0349 	STD: 0.0625
+Nodo:  T9  -  0.0402 	STD: 0.0643
+Nodo:  T10  -  0.0295 	STD: 0.0547
+Nodo:  TP9  -  0.0374 	STD: 0.0608
+Nodo:  TP10  -  0.0261 	STD: 0.0494
+
+=====================================================================
+AVG Node Clustering.
+
+Class 0 :
+Nodo:  Fp1  -  0.5672 	STD: 0.1419
+Nodo:  Fp2  -  0.5561 	STD: 0.1693
+Nodo:  F3  -  0.5488 	STD: 0.1583
+Nodo:  F4  -  0.5389 	STD: 0.178
+Nodo:  C3  -  0.4734 	STD: 0.2327
+Nodo:  C4  -  0.4719 	STD: 0.227
+Nodo:  P3  -  0.3846 	STD: 0.2573
+Nodo:  P4  -  0.43 	STD: 0.2391
+Nodo:  O1  -  0.3944 	STD: 0.2332
+Nodo:  O2  -  0.4048 	STD: 0.2513
+Nodo:  F7  -  0.5481 	STD: 0.1632
+Nodo:  F8  -  0.5136 	STD: 0.1709
+Nodo:  T3  -  0.5048 	STD: 0.2001
+Nodo:  T4  -  0.4598 	STD: 0.1971
+Nodo:  T5  -  0.4249 	STD: 0.2199
+Nodo:  T6  -  0.4161 	STD: 0.2161
+Nodo:  Fz  -  0.5479 	STD: 0.1598
+Nodo:  Cz  -  0.4558 	STD: 0.2372
+Nodo:  Pz  -  0.3696 	STD: 0.2588
+Nodo:  FT9  -  0.3285 	STD: 0.2584
+Nodo:  FT10  -  0.3413 	STD: 0.2735
+Nodo:  T9  -  0.3425 	STD: 0.2595
+Nodo:  T10  -  0.33 	STD: 0.2669
+Nodo:  TP9  -  0.3245 	STD: 0.2662
+Nodo:  TP10  -  0.2756 	STD: 0.2811
+
+Class 1 :
+Nodo:  Fp1  -  0.4408 	STD: 0.2192
+Nodo:  Fp2  -  0.447 	STD: 0.2347
+Nodo:  F3  -  0.4308 	STD: 0.2286
+Nodo:  F4  -  0.4209 	STD: 0.2286
+Nodo:  C3  -  0.3534 	STD: 0.2711
+Nodo:  C4  -  0.3592 	STD: 0.2609
+Nodo:  P3  -  0.3476 	STD: 0.2592
+Nodo:  P4  -  0.3826 	STD: 0.2495
+Nodo:  O1  -  0.375 	STD: 0.24
+Nodo:  O2  -  0.3575 	STD: 0.2268
+Nodo:  F7  -  0.4351 	STD: 0.2222
+Nodo:  F8  -  0.4066 	STD: 0.2272
+Nodo:  T3  -  0.387 	STD: 0.2274
+Nodo:  T4  -  0.3796 	STD: 0.2346
+Nodo:  T5  -  0.3621 	STD: 0.2263
+Nodo:  T6  -  0.3642 	STD: 0.2211
+Nodo:  Fz  -  0.4384 	STD: 0.2181
+Nodo:  Cz  -  0.3951 	STD: 0.2611
+Nodo:  Pz  -  0.3244 	STD: 0.2485
+Nodo:  FT9  -  0.3273 	STD: 0.2723
+Nodo:  FT10  -  0.3418 	STD: 0.2809
+Nodo:  T9  -  0.354 	STD: 0.2828
+Nodo:  T10  -  0.3478 	STD: 0.2928
+Nodo:  TP9  -  0.3439 	STD: 0.2853
+Nodo:  TP10  -  0.2382 	STD: 0.2683
